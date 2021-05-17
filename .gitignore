@@ -1,0 +1,19 @@
+# Editor Files and Folders
+
+.idea/
+.vscode/
+.DS_Store
+*~
+\#*#
+
+# Build Files and Binaries
+
+plazza
+*.o
+*.so
+*.txt
+
+# Documentation Generation Files
+
+doc/latex/
+doc/html/
