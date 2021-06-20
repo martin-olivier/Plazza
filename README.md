@@ -6,6 +6,12 @@ cooking several pizzas
 ## Subject
 
 [![doc](https://img.shields.io/badge/Subject-pdf-red.svg)](./subject.pdf)
+
+## Build
+
+```
+make
+```
  
 ## Usage
 ```
