@@ -29,6 +29,9 @@ Ordering example which is grammatically valid :
 
 regina XXL x2; fantasia M x3; margarita S x1
 
+## Result
+
+Grade `A`
 
 ## Contributors
 
